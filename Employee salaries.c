@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#This code gives employee information
 struct persalary {
     int month; /* number 1 corresponds to January, 2 corresponds to February, and so on */
     long salary;
